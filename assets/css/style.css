@@ -127,5 +127,17 @@ footer {
         display: none;
     }
 
+    #logo {
+        font-size: 280%;
+        line-height: 72px;
+        margin: 0 0.5rem;
+    }
+        /* Main Content */
+        main {
+            /* Push Main Content down to acomadate larger head */
+            margin-top: 79px;
+
+        }
+
 
 }
