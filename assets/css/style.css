@@ -96,6 +96,7 @@ main {
     background-color: lightblue;
     /* Make our main element take up any extra space on the page */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* footer */
